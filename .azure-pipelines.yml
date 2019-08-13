@@ -9,6 +9,7 @@ trigger:
     - master
     - 6.0
     - 5.4
+    - schedule-master
     - refs/tags/*
 
 # Scheduled build
